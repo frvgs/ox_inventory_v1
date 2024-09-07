@@ -1,6 +1,6 @@
 <br/>
 
-<div align="center">
+<div align="center" style="margin: 30px;">
   <a href="https://frvgs.com/">
     <img src="https://cdn.frvgs.com/banner_new.png" align="center" />
   </a>
@@ -17,6 +17,10 @@
 
 <div align="center">
   <strong>This is a redesign & rework of <a href="https://github.com/overextended/ox_inventory">ox_iventory</a> !
+
+<br />
+<br />
+
 </div>
 
 ![ox_inventory](preview/ox_inventory.png)
