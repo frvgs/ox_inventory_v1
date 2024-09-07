@@ -1,6 +1,6 @@
 <br/>
 
-<div align="center" style="margin: 30px;">
+<div align="center">
   <a href="https://frvgs.com/">
     <img src="https://cdn.frvgs.com/banner_new.png" align="center" />
   </a>
