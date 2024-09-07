@@ -23,9 +23,9 @@
 
 </div>
 
-[![Image Preview](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview1.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
+[![Image Preview](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview1.png)]
 
-[![Image Preview](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview2.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
+[![Image Preview](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview2.png)]
 
 [![Video Preview](https://cdn.frvgs.com/youtube/ox_inventory_cover1.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
 
