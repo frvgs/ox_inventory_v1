@@ -17,22 +17,10 @@
 
 <div align="center">
   <strong>This is a redesign & rework of <a href="https://github.com/overextended/ox_inventory">ox_iventory</a> !
-
-<br />
-<br />
-
-<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview1.png" align="center" />
-
-<br />
-
-<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview2.png" align="center" />
-
-<br />
-
-<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview3.png" align="center" />
-
-
 </div>
+
+![ox_inventory](preview/ox_inventory.png)
+
 
 [![Video Preview](https://cdn.frvgs.com/youtube/ox_inventory_cover1.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
 
