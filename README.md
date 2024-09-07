@@ -21,13 +21,18 @@
 <br />
 <br />
 
+<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview1.png" align="center" />
+
+<br />
+
+<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview2.png" align="center" />
+
+<br />
+
+<img src="https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview3.png" align="center" />
+
+
 </div>
-
-![Preview1]([http://url/to/img.png](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview1.png))
-
-![Preview2]([http://url/to/img.png](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview2.png))
-
-![Preview3]([http://url/to/img.png](https://cdn.frvgs.com/assets/webstore/images/products/scripts/ox_inventory/preview3.png))
 
 
 [![Video Preview](https://cdn.frvgs.com/youtube/ox_inventory_cover1.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
