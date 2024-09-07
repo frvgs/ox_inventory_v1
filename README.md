@@ -34,8 +34,16 @@
 
 </div>
 
-
 [![Video Preview](https://cdn.frvgs.com/youtube/ox_inventory_cover1.png)](https://www.youtube.com/watch?v=r9OG_WeODfI)
+
+
+![Preview1](preview/preview1.png)
+
+![Preview2](preview/preview2.png)
+
+![Preview3](preview/preview3.png)
+
+
 
 ## ✨ Features
 -	🎨 Redesigned inventory slots, buttons, and weight bar with smooth animations.
